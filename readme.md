@@ -1,4 +1,8 @@
-# Amazon Price Tracker
+# Amazon Price Tracker [⏩](https://github.com/KrShivanshu/Amazon-Price-Tacker)
+
+by Kumar Shivanshu 
+[Github](https://github.com/KrShivanshu/)
+
 ### It is an automated web scraper which can be used track few top products on Amazon based on given arguments and store its link, title, seller and price in json format.
 ---
 ### It receives arguments like:
@@ -7,16 +11,16 @@
 3. Max Price
 
 ## Prerequisites 
-1. Python version 3.0 or above install in system.
+1. Python version 3.0 or above installed in system.
 2. Terminal or command prompt 
-3. Chrome browser
+3. Chrome browser installed 
 
 ## Steps to run the application
 1. Download the project
 2. Extract the zip file of the project 
 3. Find your chrome version
     - Open Chrome -> Settings -> About -> Version
-4. Download chrome driver as your chrome browser version
+4. Download chrome driver same as your chrome browser version
     - [Download Chrome Driver](https://chromedriver.chromium.org/)
     - Extract and save the .exe file in project root folder
     - Driver name should be "chromedriver.exe"
