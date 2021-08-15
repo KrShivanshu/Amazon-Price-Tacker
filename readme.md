@@ -31,5 +31,5 @@ Note : You can change the product name, min price and max price in amazon_config
 2. Report generates can be of more readable form using JSON formatter.
 
 ## Projet Working Screen Recording
-![Working](others\AmazonPriceTrackerWorking.gif)
+![Working](/others\AmazonPriceTrackerWorking.gif)
 
