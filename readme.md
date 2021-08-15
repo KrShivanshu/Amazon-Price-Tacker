@@ -12,17 +12,19 @@
 3. Chrome browser
 
 ## Steps to run the application
-1. Find your chrome version
+1. Download the project
+2. Extract the zip file of the project 
+3. Find your chrome version
     - Open Chrome -> Settings -> About -> Version
-2. Download chrome driver as your chrome browser version
+4. Download chrome driver as your chrome browser version
     - [Download Chrome Driver](https://chromedriver.chromium.org/)
     - Extract and save the .exe file in project root folder
     - Driver name should be "chromedriver.exe"
-3. Open terminal and browse it to project root folder
-4. Type 
+5. Open terminal and browse it to project root folder
+6. Type 
     - > python simple_tracker.py
     -  Press "Enter"
-5. Project will run from here automatically and will generate the report in reports folder
+7. Project will run from here automatically and will generate the report in reports folder
 
 Note : You can change the product name, min price and max price in amazon_config.py file based on your requirement.
 
